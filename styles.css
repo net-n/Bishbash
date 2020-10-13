@@ -13,7 +13,7 @@ text-align: right;
 
 h1{
   font-family: 'Amatic SC', cursive;
-font-size: 3.5rem;
+font-size: 5rem;
 line-height: 1.5;
 
 }
@@ -33,6 +33,10 @@ line-height: 1.5;
 p{
   color: #8f8f8f;
 }
+img{
+      float: right;
+}
+
 .container-fluid{
   padding: 3% 15%;
 }
@@ -71,7 +75,11 @@ font-family: 'Montserrat-Light'
   margin-left:20%;
     border-radius: 100%;
 }
-
+.Title-images{
+  width: 30%;
+  margin-left:2.5%;
+      float: right;
+}
   /* <!-- Features --> */
 #features{
   padding: 7% 15%;
@@ -139,6 +147,7 @@ text-align: center;
 .footers{
   background-color: #1a1a1a;
   color: white;
+  text-decoration: none;
 }
 
 #video{
@@ -166,5 +175,13 @@ text-align: center;
   padding: 2.5% 15%;
   text-align: center;
   color: white;
+
+}
+.btn{
+  font-size: 3rem;
+
+}
+.btns{
+  margin: 5% 3% 5% 0;
 
 }
