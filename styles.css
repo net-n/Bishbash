@@ -1,13 +1,15 @@
 body{
   background: #1a1a1a;
   text-align: right;
+  font-family: 'Amatic SC', cursive;
+
 
 }
 
  #title{
   background-color: #1a1a1a;
 color: #fff;
-font-family: 'Montserrat-Medium 500 italic';
+font-family: 'Amatic SC', cursive;
 text-align: right;
 }
 
@@ -19,7 +21,7 @@ line-height: 1.5;
 }
 
 h2{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', cursive;
     size:3.5rem;
     line-height: 1.5;
 }
@@ -41,7 +43,7 @@ p{
 
 /* navigation bar */
 .navbar-brand{
-font-family: 'Ubuntu', sans-serif;
+  font-family: 'Amatic SC', cursive;
 font-size: 2.5rem;
 font-weight: bold;
 }
@@ -49,13 +51,11 @@ font-weight: bold;
 .nav-item{
   padding: 0 18px;
 }
-
 .nav-link{
   font-family: 'Amatic SC', cursive;
-font-size: 3rem;
+font-size: 4rem;
 line-height: 1;
 }
-
 .navbar{
   padding:0 0 4.5rem;
 }
@@ -91,7 +91,7 @@ line-height: 1;
   padding: 7% 15%;
   background-color: #1a1a1a;
   font-family: 'Amatic SC', cursive;
-font-size: 4.5rem;
+font-size: 4rem;
 line-height: 1.5;
 
   text-align: right;
@@ -147,6 +147,8 @@ text-align: center;
 #footer{
   text-align: center;
     background-color: #1a1a1a;
+    font-size: 1.5rem;
+
 }
 .footers{
   background-color: #1a1a1a;
